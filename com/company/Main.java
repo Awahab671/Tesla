@@ -9,6 +9,11 @@ public class Main {
         modelS.Engine=2;
         modelS.Speed= 280;
 
+        ModelX modelX = new ModelX();
+        modelX.color="Red";
+        modelX.doors=4;
+        modelX.speed = 300;
+
 
     }
 }

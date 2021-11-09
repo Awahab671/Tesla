@@ -13,6 +13,7 @@ public class Main {
         model.color="green";
         model.doors=4;
         model.engin="4000hp";
+        model.body="V";
 
 
     }

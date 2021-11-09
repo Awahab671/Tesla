@@ -4,6 +4,7 @@ public class Module3 {
     String color;
     int doors;
     String engin;
+    String body;
 
 
 

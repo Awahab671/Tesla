@@ -15,6 +15,7 @@ public class Main {
         modelX.doors=4;
         modelX.speed = 300;
         modelX.year=2022;
+        System.out.println(modelX.year);
 
         Module3 model =new Module3();
         model.color="green";

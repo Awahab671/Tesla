@@ -22,6 +22,8 @@ public class Main {
         model.doors=4;
         model.engin="4000hp";
         model.body="V";
+        System.out.println("This looks good");
+
 
 
 

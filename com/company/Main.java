@@ -9,6 +9,11 @@ public class Main {
         modelS.Engine=2;
         modelS.Speed= 280;
 
+        Module3 model =new Module3();
+        model.color="green";
+        model.doors=4;
+        model.engin="4000hp";
+
 
     }
 }

@@ -13,6 +13,7 @@ public class Main {
         modelX.color="Red";
         modelX.doors=4;
         modelX.speed = 300;
+        modelX.year=2022;
 
 
     }
